@@ -11,9 +11,9 @@
 * fit_subject_train    raw data from subject_train.txt
 
 ### Step 2: Test & Trial union variables
-* <u>fit_X</u>:               combination of fit_X_test and fit_X_train
-* <u>fit_Y</u>:              combination of fit_y_test and fit_y_train
-* <u>fit_subject</u>:          combination of fit_subject_test and fit_subject_train
+* <b>fit_X</b>:               combination of fit_X_test and fit_X_train
+* <b>fit_Y</b>:              combination of fit_y_test and fit_y_train
+* <b>fit_subject</b>:          combination of fit_subject_test and fit_subject_train
 
 ### Step 3: Set column names for fit_X and fit_activity_labels
 
